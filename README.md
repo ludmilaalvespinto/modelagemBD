@@ -25,4 +25,7 @@
 O desafio foi modelado no programa MySQL Workbech.
 </p>
 
+<div align="center">
+  <img src="https://github.com/ludmilaalvespinto/modelagemBD/assets/102269120/46b9db77-5c0f-48d1-bf76-521b2cff6e3b">
+</div>
 
