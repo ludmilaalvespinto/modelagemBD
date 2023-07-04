@@ -48,3 +48,7 @@ O desafio foi modelado no programa MySQL Workbech.
 <p>
   Uma OS pode ser composta por vários serviços e um mesmo serviço pode estar contido em mais de uma OS.Uma OS pode ter vários tipos de peça e uma peça pode estar presente em mais de uma OS.
 </p>
+<div align="center">
+  <img src="https://github.com/ludmilaalvespinto/modelagemBD/assets/102269120/3a2bdb61-64b0-4347-ade9-9cdaf8cd3d3b">
+</div>
+
